@@ -1,0 +1,10 @@
+D:\_CS_305\Lecture06\Example03\bin\Debug\Example03.exe.config
+D:\_CS_305\Lecture06\Example03\bin\Debug\Example03.exe
+D:\_CS_305\Lecture06\Example03\bin\Debug\Example03.pdb
+D:\_CS_305\Lecture06\Example03\bin\Debug\PokemonRunLibrary.dll
+D:\_CS_305\Lecture06\Example03\bin\Debug\PokemonRunLibrary.pdb
+D:\_CS_305\Lecture06\Example03\obj\Debug\Example03.csprojAssemblyReference.cache
+D:\_CS_305\Lecture06\Example03\obj\Debug\Example03.csproj.CoreCompileInputs.cache
+D:\_CS_305\Lecture06\Example03\obj\Debug\Example03.csproj.CopyComplete
+D:\_CS_305\Lecture06\Example03\obj\Debug\Example03.exe
+D:\_CS_305\Lecture06\Example03\obj\Debug\Example03.pdb

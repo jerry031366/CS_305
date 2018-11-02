@@ -1,0 +1,6 @@
+D:\_CS_305\Lecture07\EasyMath\bin\Debug\EasyMath.dll
+D:\_CS_305\Lecture07\EasyMath\bin\Debug\EasyMath.pdb
+D:\_CS_305\Lecture07\EasyMath\obj\Debug\EasyMath.csprojAssemblyReference.cache
+D:\_CS_305\Lecture07\EasyMath\obj\Debug\EasyMath.csproj.CoreCompileInputs.cache
+D:\_CS_305\Lecture07\EasyMath\obj\Debug\EasyMath.dll
+D:\_CS_305\Lecture07\EasyMath\obj\Debug\EasyMath.pdb

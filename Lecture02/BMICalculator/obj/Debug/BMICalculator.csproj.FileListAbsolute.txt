@@ -1,0 +1,10 @@
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\bin\Debug\BMICalculator.exe
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.Form1.resources
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.exe
+D:\_台大資訊課資料\CS_305\Lecture02\BMICalculator\obj\Debug\BMICalculator.pdb

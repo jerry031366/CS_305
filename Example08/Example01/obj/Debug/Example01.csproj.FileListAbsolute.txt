@@ -1,0 +1,10 @@
+D:\_CS_305\Example08\Example01\bin\Debug\Example01.exe.config
+D:\_CS_305\Example08\Example01\bin\Debug\Example01.exe
+D:\_CS_305\Example08\Example01\bin\Debug\Example01.pdb
+D:\_CS_305\Example08\Example01\bin\Debug\EmployeeLibrary.dll
+D:\_CS_305\Example08\Example01\bin\Debug\EmployeeLibrary.pdb
+D:\_CS_305\Example08\Example01\obj\Debug\Example01.csprojAssemblyReference.cache
+D:\_CS_305\Example08\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+D:\_CS_305\Example08\Example01\obj\Debug\Example01.csproj.CopyComplete
+D:\_CS_305\Example08\Example01\obj\Debug\Example01.exe
+D:\_CS_305\Example08\Example01\obj\Debug\Example01.pdb

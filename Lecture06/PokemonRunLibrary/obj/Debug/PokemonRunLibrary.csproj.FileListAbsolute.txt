@@ -1,0 +1,6 @@
+D:\_CS_305\Lecture06\PokemonRunLibrary\bin\Debug\PokemonRunLibrary.dll
+D:\_CS_305\Lecture06\PokemonRunLibrary\bin\Debug\PokemonRunLibrary.pdb
+D:\_CS_305\Lecture06\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.csprojAssemblyReference.cache
+D:\_CS_305\Lecture06\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.csproj.CoreCompileInputs.cache
+D:\_CS_305\Lecture06\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.dll
+D:\_CS_305\Lecture06\PokemonRunLibrary\obj\Debug\PokemonRunLibrary.pdb

@@ -1,0 +1,14 @@
+D:\C#課堂練習\Work1\Work1\obj\Debug\Work1.csprojAssemblyReference.cache
+D:\C#課堂練習\Work1\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+D:\C#課堂練習\Work1\Work1\bin\Debug\Work1.exe.config
+D:\C#課堂練習\Work1\Work1\bin\Debug\Work1.exe
+D:\C#課堂練習\Work1\Work1\bin\Debug\Work1.pdb
+D:\C#課堂練習\Work1\Work1\obj\Debug\Work1.exe
+D:\C#課堂練習\Work1\Work1\obj\Debug\Work1.pdb
+D:\_台大資訊課資料\CS_305\Work1\Work1\bin\Debug\Work1.exe.config
+D:\_台大資訊課資料\CS_305\Work1\Work1\bin\Debug\Work1.exe
+D:\_台大資訊課資料\CS_305\Work1\Work1\bin\Debug\Work1.pdb
+D:\_台大資訊課資料\CS_305\Work1\Work1\obj\Debug\Work1.csprojAssemblyReference.cache
+D:\_台大資訊課資料\CS_305\Work1\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+D:\_台大資訊課資料\CS_305\Work1\Work1\obj\Debug\Work1.exe
+D:\_台大資訊課資料\CS_305\Work1\Work1\obj\Debug\Work1.pdb

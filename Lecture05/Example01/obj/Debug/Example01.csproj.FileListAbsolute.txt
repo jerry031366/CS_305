@@ -1,0 +1,7 @@
+D:\_CS_305\Lecture05\Example01\bin\Debug\Example01.exe.config
+D:\_CS_305\Lecture05\Example01\bin\Debug\Example01.exe
+D:\_CS_305\Lecture05\Example01\bin\Debug\Example01.pdb
+D:\_CS_305\Lecture05\Example01\obj\Debug\Example01.csprojAssemblyReference.cache
+D:\_CS_305\Lecture05\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+D:\_CS_305\Lecture05\Example01\obj\Debug\Example01.exe
+D:\_CS_305\Lecture05\Example01\obj\Debug\Example01.pdb

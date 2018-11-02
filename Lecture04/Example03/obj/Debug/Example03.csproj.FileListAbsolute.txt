@@ -1,0 +1,7 @@
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\bin\Debug\Example03.exe.config
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\bin\Debug\Example03.exe
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\bin\Debug\Example03.pdb
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\obj\Debug\Example03.csprojAssemblyReference.cache
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\obj\Debug\Example03.csproj.CoreCompileInputs.cache
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\obj\Debug\Example03.exe
+D:\_台大資訊課資料\CS_305\Lecture04\Example03\obj\Debug\Example03.pdb

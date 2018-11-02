@@ -1,0 +1,6 @@
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\bin\Debug\Exanple02.exe.config
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\bin\Debug\Exanple02.exe
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\bin\Debug\Exanple02.pdb
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\obj\Debug\Exanple02.csproj.CoreCompileInputs.cache
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\obj\Debug\Exanple02.exe
+D:\_台大資訊課資料\CS_305\Lecture02\Exanple02\obj\Debug\Exanple02.pdb
