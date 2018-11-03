@@ -1,0 +1,13 @@
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\bin\Debug\Example02.exe.config
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\bin\Debug\Example02.exe
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\bin\Debug\Example02.pdb
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\obj\Debug\Example02.csproj.CoreCompileInputs.cache
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\obj\Debug\Example02.exe
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\obj\Debug\Example02.pdb
+D:\_台大資訊課資料\CS_305\Lecture03\Example02\obj\Debug\Example02.csprojAssemblyReference.cache
+D:\_CS_305\Lecture03\Example02\bin\Debug\Example02.exe.config
+D:\_CS_305\Lecture03\Example02\bin\Debug\Example02.exe
+D:\_CS_305\Lecture03\Example02\bin\Debug\Example02.pdb
+D:\_CS_305\Lecture03\Example02\obj\Debug\Example02.csproj.CoreCompileInputs.cache
+D:\_CS_305\Lecture03\Example02\obj\Debug\Example02.exe
+D:\_CS_305\Lecture03\Example02\obj\Debug\Example02.pdb
